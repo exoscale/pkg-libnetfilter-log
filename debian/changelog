@@ -1,3 +1,9 @@
+libnetfilter-log (1.0.0-1ubuntu1~precise0+exo1) precise; urgency=medium
+
+  * Backport to Precise. No changes.
+
+ -- Vincent Bernat <bernat@debian.org>  Wed, 30 Sep 2015 10:54:35 +0200
+
 libnetfilter-log (1.0.0-1ubuntu1) trusty; urgency=medium
 
   * Use dh-autoreconf to get new libtool macros for ppc64el and update
